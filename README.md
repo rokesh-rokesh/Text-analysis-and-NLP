@@ -11,9 +11,8 @@ Step 1:
 Step 2:
 
     task1.py,task2.py,task3to8.py - using nltk,pandas,re python package
-    
-=================================================================================================================================
-    
+
+        
 task1.py:
     
         Sentimental analysis is the process of determining whether a piece of writing is positive, negative, or neutral. The below Algorithm is designed for use in Financial Texts. It consists of steps:
@@ -28,8 +27,7 @@ task1.py:
     ii) Negative Score
     iii)Polarity Score
     iv) Subjectivity Score
-    
-=================================================================================================================================
+
     
 task2.py
 
@@ -42,8 +40,6 @@ task2.py
     vii)Fog Index
     
     
-=================================================================================================================================
-
 task3to8.py
 
     Calculating...
@@ -54,9 +50,7 @@ task3to8.py
     xi)   Syllable Count Per Word
     xii)  Personal Pronouns
     xiii) Average Word Length
-    
-=================================================================================================================================
-    
+        
 Step 3:
 
     Combine the results of 11 variable -- Output Data Structure.xlsx.
